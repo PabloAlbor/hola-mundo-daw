@@ -4,7 +4,7 @@ Mi primer repositorio en 2º DAW para el módulo de Despliegue de Aplicaciones W
 ## Sección 1
 Hola
 
-## lista de tecnologías que voy a aprender este año
+## Lista de tecnologías que voy a aprender este año
 - PHP
 - JavaScript
 - Python
